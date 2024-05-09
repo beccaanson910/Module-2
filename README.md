@@ -1,4 +1,4 @@
-# Module-2
+# VBA-Challenge
 1. Labeling the tables
 2. Defining the Last Row
 3. Defining the Variables
